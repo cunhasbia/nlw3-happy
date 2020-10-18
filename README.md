@@ -16,6 +16,7 @@
 - Javascript<br>
 - Nodejs<br>
 - Express.js<br>
+- Handlebars.js<br>
 - SQLite<br>
 - Git bash
 <hr>
