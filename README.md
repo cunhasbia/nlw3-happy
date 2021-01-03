@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="./public/images/logo-happy-readme.svg" width="25%">
+    <img alt="Happy" title="Happy Logo" src="./public/images/logo-happy-readme.svg" width="25%">
 </h1>
 
 <p>Bring happiness to the world! The web application <strong>Happy</strong> mission is to assist underprivileged children, facilitating the search for nearby orphanages, registration of new homes and mainly take volunteers to change the day of these children.</p>
